@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AysajanE
 - 👀 I’m interested in new machine learning and deep learning models for important pricing problems in fields such as retail, healthcare.
-- 🌱 I’m currently learning PyTorch.
+- 🌱 I’m currently learning [https://see.stanford.edu/Course/EE263](url).
 - 💞️ I’m looking to collaborate on projects that apply Markov Decision Process (MDP) to practical problems.
 - 📫 How to reach me: aysajan1986@gmail.com
 
