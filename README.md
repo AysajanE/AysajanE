@@ -1,38 +1,34 @@
-# 👋 Hi, I'm Aysajan Eziz (@AysajanE)
+# Aysajan Eziz
 
-## 👀 About Me
-I'm an Assistant Professor of Management Science at Ivey Business School, with a background in operations research, statistics, and machine learning. My research spans:
+I work at the intersection of AI systems, autonomous agents, crypto infrastructure, and applied economics.
 
-- Public blockchains and decentralized finance
-- Machine learning applications in pricing and revenue management
-- AI safety, ethics, and alignment (growing interest)
+I'm currently building **Northset** and exploring how agentic software, reproducible evidence workflows, and verifiable coordination can become real products. Alongside that, I'm an Assistant Professor of Management Science at Ivey Business School, where my work draws on operations research, statistics, machine learning, pricing, and market design.
 
-## 🔬 Current Focus
-- Exploring technical AI safety and alignment challenges
-- Investigating the societal impacts of Large Language Models (LLMs)
-- Continuing work on blockchain economics and ML applications in business
+## What I'm Focused On
 
-## 🌱 Learning Journey
-- Deepening my understanding of AI safety frameworks and methodologies
-- Expanding knowledge in advanced ML techniques and their ethical implications
-- Continuing to explore Ethereum blockchain protocols
+- Building AI-native tools and workflows with a bias toward real deployment
+- Designing agentic systems, research/evaluation pipelines, and coordination patterns
+- Working on crypto, blockchains, and mechanism design with an interest in verification and market structure
+- Teaching and applying pricing, revenue analytics, optimization, and data science
 
-## 💞️ Collaboration Interests
-- Technical AI safety research projects
-- Ethical AI implementation in business contexts
-- Public blockchain applications and studies
+## Selected Public Work
 
-## 🎓 Background
-- Ph.D. in Operations & Management Science
-- M.S. in Statistics
-- Expertise in optimization, statistical analysis, and data science
+- [autonomous-agentic-research-swarm](https://github.com/AysajanE/autonomous-agentic-research-swarm) - file-based multi-agent research workflow template
+- [sumr-token-value-accrual-analysis](https://github.com/AysajanE/sumr-token-value-accrual-analysis) - reproducible forensic analysis of token value accrual
+- [l2-l1-causal-analysis-repro](https://github.com/AysajanE/l2-l1-causal-analysis-repro) - reproducibility package for Ethereum L2/L1 causal analysis
+- [pricing-revenue-analytics-course-codes](https://github.com/AysajanE/pricing-revenue-analytics-course-codes) - code and teaching material for pricing and revenue analytics
+- [coding-agents-for-research](https://github.com/AysajanE/coding-agents-for-research) - early experiments using coding agents in research workflows
 
-## 📫 Connect With Me
-- Email: aysajan1986@gmail.com
-- Academic Profile: [Ivey Business School](https://www.ivey.uwo.ca/faculty/directory/aysajan-eziz/)
+## About This GitHub
+
+A meaningful share of what I'm building right now is private, early-stage, or product-facing. The public repos here are best read as examples of the themes I spend time on: agentic systems, reproducible research, crypto/data infrastructure, and applied ML.
+
+## Links
+
+- Website: [aysajaneziz.com](https://www.aysajaneziz.com)
+- Academic profile: [Ivey Business School](https://www.ivey.uwo.ca/faculty/directory/aysajan-eziz/)
 - LinkedIn: [Aysajan Eziz](https://www.linkedin.com/in/aysajan-eziz-192a142a7/)
-
-Always eager to learn and contribute to the exciting fields of AI safety, blockchain, and advanced analytics!
+- Email: [aysajan1986@gmail.com](mailto:aysajan1986@gmail.com)
 
 <!---
 AysajanE/AysajanE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
