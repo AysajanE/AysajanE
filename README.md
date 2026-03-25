@@ -17,7 +17,7 @@ I'm currently building **Northset** and exploring how agentic software, reproduc
 - [sumr-token-value-accrual-analysis](https://github.com/AysajanE/sumr-token-value-accrual-analysis) - reproducible forensic analysis of token value accrual
 - [l2-l1-causal-analysis-repro](https://github.com/AysajanE/l2-l1-causal-analysis-repro) - reproducibility package for Ethereum L2/L1 causal analysis
 - [pricing-revenue-analytics-course-codes](https://github.com/AysajanE/pricing-revenue-analytics-course-codes) - code and teaching material for pricing and revenue analytics
-- [coding-agents-for-research](https://github.com/AysajanE/coding-agents-for-research) - early experiments using coding agents in research workflows
+- [plan-orchestrator](https://github.com/AysajanE/plan-orchestrator) - stdlib-first Python orchestrator for running reviewed markdown playbook items one at a time in isolated git worktrees
 
 ## About This GitHub
 
